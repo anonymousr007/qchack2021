@@ -1,6 +1,6 @@
 # Qchack 2021 Google Challenge 
 
-This is a challenge for the brave 2021 [qchack.io](https://qchack.io) participants.
+This is a challenge for the brave 2021 [quantumcoalition.io](https://www.quantumcoalition.io/) participants.
 
 ## Instructions
 
